@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/awmie/awmie/main/meowcat.png" alt="">
+  <img src="https://cdn.discordapp.com/attachments/1126359222712541184/1126359888486998180/meowcat.png" alt="">
 </p>
 
 <h1 align="center">Hi 👋, I'm Amritava Kole</h1>
