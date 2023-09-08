@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1126359222712541184/1126359888486998180/meowcat.png" alt="">
+  <img src="https://github.com/awmie/awmie/assets/95137415/1c60df7e-05e5-4398-9a03-504ab4894758">
 </p>
 
 <h1 align="center">Hi 👋, I'm Amritava Kole</h1>
 <h3 align="center">A passionate Python developer</h3>
 
 # 💫 About Me:
-🔭 I am currently engaged in Python projects with a focus on AI/ML, where I am actively involved in leading the development and implementation of machine learning algorithms.<br>👯 I am looking to collaborate on AI/ML projects to leverage my skills and contribute to cutting-edge advancements in the field.<br>🤝 I am seeking assistance with my Discord bot project ~ [Tishmish](https://github.com/awmie/tishmish.git)<br>🌱 Currently, I am in the process of learning Python, Tailwind (for frontend development), as well as various AI/ML concepts and algorithms.<br>💬 Ask me about python development, frontend web design using Tailwind CSS, AI & ML.<br>📫 You can reach me here amritavakole@gmail.com<br>🌐 [My website](https://awmie.vercel.app)
+🔭 I am currently engaged in Python projects with a focus on AI/ML, where I am actively involved in leading the development and implementation of machine learning algorithms.<br>👯 I am looking to collaborate on AI/ML projects to leverage my skills and contribute to cutting-edge advancements in the field.<br>🤝 I am seeking assistance with my Discord bot project ~ [Tishmish](https://github.com/awmie/tishmish.git)<br>🌱 Currently, I am in the process of learning Python, Tailwind (for frontend development), as well as various AI/ML concepts and algorithms.<br>💬 Ask me about Python development, and frontend web design using Tailwind CSS, AI & ML.<br>📫 You can reach me here amritavakole@gmail.com<br>🌐 [My website](https://awmie.vercel.app)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/oyi.zoro/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amritava-kole-521bb0229/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/itsawme) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@editsyoriichi) 
@@ -16,15 +16,15 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awmie&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" alt="">
+  <img src="https://github-readme-stats.vercel.app/api?username=awmie&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=false">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awmie&theme=chartreuse-dark&hide_border=false" alt="">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=awmie&theme=chartreuse-dark&hide_border=true">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awmie&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awmie&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact">
 </p>
 
 ---
