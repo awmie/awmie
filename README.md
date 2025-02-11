@@ -24,6 +24,8 @@ class AboutMe:
 if __name__ == "__main__":
     print(AboutMe())
 ```
+
+copy and Run the above code [here](https://pythonline.vercel.app/)
 ---
 
 <a href="https://github.com/awmie">
