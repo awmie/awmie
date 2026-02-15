@@ -3,15 +3,14 @@
 </h1>
 
 <p align="center">
+<img src="https://github.com/user-attachments/assets/65d8ff2b-f858-432d-ba1d-02eb346f200d" alt="Type Type Cute Cat" />
+</p>
+
+<p align="center">
   <i><sub>awkwardly building things on the internet</sub></i>
 </p>
 
 ### About me
-
-<p>
-      &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/65d8ff2b-f858-432d-ba1d-02eb346f200d" alt="Type Type Cute Cat" />
-</p>
 
 - <img src="https://github.com/user-attachments/assets/ac641ca6-788a-407f-b226-45ab4a3f7170"
  alt="😄" height="18" /> **Amritava Kole** (he/him) – aka <code>awmie</code>
