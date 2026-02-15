@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <i><sub>awkwardly building things on the internet</sub></i>
+  <i><sub>awkwardly building things on the internet </sub></i>
 </p>
-
+ 
 ### About me
 
 - <img src="https://github.com/user-attachments/assets/ac641ca6-788a-407f-b226-45ab4a3f7170"
@@ -17,6 +17,7 @@
 
 - 🎓 Postgrad at Gautam Buddha University, School of ICT
 - <img src="https://github.com/user-attachments/assets/46439642-7bfa-4ab8-b8de-082cf5303a21" alt="🤖" height="18" /> Into AI, full‑stack dev, and making random stuff work together
+- <img src="https://github.com/user-attachments/assets/6ed727ff-bb36-464a-a0c5-94468771c939" alt="🌐" height="20"/> <i><a href="https://awmie.github.io/">see more</a></i>
 
 ### What I’ve built without AI
 
